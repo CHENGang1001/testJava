@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+Implementation-Title: testapp123
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: chengang
+Implementation-Vendor-Id: testapp
 Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/testapp123
 Created-By: Maven Integration for Eclipse
 
